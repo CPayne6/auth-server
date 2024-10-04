@@ -1,0 +1,21 @@
+{
+  "name": "auth-server",
+  "version": "0.0.1",
+  "description": "A generic auth server designed to be usable in many projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Payne",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "eslint": "^9.11.1",
+    "globals": "^15.10.0",
+    "typescript": "^5.6.2",
+    "typescript-eslint": "^8.8.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
